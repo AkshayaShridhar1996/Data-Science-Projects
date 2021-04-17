@@ -1,2 +1,2 @@
 # Data-Science-design-thinking-projects
-Design thinking projects using data
+Data Science Assignmnets and projects
